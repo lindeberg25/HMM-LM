@@ -1,10 +1,8 @@
 # NLP-sequencial-data
 
-This project aims to apply Text Segmentation techniques using Transformer archquitecture in epitope prediction task. This is a cooperation between UNB Vision group and Aston University epitope prediction group
+This project aims to apply Text Segmentation techniques based on Transformer architecture in the epitope prediction task. This is a cooperation between the UNB Vision group and the Aston University epitope prediction group
 
-All the experiments will be included in the Lindeberg's thesis
-
-This repository has the follow experiments:
+This repository has the following experiments:
 
 1 - epitope_prediction_elmo_plus_linear_models
 
@@ -19,3 +17,8 @@ This repository has the follow experiments:
 6 - epitope_prediction_optimized_protbert_uncased
 
 7 - epitope_prediction_bert_extended
+
+8 - epitope_prediction_retrained_bert
+
+
+All these experiments will be included in Lindeberg's thesis
