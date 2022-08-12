@@ -4,21 +4,27 @@ This project aims to apply Text Segmentation techniques based on Transformer arc
 
 This repository has the following experiments:
 
-1 - epitope_prediction_elmo_plus_linear_models
+1 - refine-epitope-hmm-2-hidden-states
 
-2 - epitope_prediction_elmo_dense_layers
+2 - refine-epitope-hmm-positive-negative
 
-3 - epitope_prediction_optimized_bert_uncased
+3 - refine-epitope-hmm-16-hidden-states
 
-4 - epitope_prediction_optimized_roberta_uncased
+4 - epitope_prediction_elmo_plus_linear_models
 
-5 - epitope_prediction_optimized_xlnet_cased
+5 - epitope_prediction_elmo_dense_layers
 
-6 - epitope_prediction_optimized_protbert_uncased
+6 - epitope_prediction_optimized_bert_uncased
 
-7 - epitope_prediction_bert_extended
+7 - epitope_prediction_optimized_roberta_uncased
 
-8 - epitope_prediction_retrained_bert
+8 - epitope_prediction_optimized_xlnet_cased
+
+9 - epitope_prediction_optimized_protbert_uncased
+
+10 - epitope_prediction_bert_extended
+
+11 - epitope_prediction_retrained_bert
 
 
 All these experiments will be included in Lindeberg's thesis
