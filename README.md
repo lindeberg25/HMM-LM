@@ -1,6 +1,6 @@
 # Hidden Markov Models (HMM) and Language Modeling (LM)
 
-This project aims to HMM and LM in the epitope prediction task. This is a cooperation between the UNB Vision group and the Aston University epitope prediction group
+This project aims to apply HMM and LM in the epitope prediction task. This is a cooperation between the UNB Vision group and the Aston University epitope prediction group
 
 This repository has the following experiments:
 
@@ -27,4 +27,4 @@ This repository has the following experiments:
 11 - epitope_prediction_retrained_bert
 
 
-All these experiments will be included in Lindeberg's thesis
+--------------
