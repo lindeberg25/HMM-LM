@@ -1,6 +1,6 @@
-# NLP-sequencial-data
+# Hidden Markov Models (HMM) and Language Modeling (LM)
 
-This project aims to apply Text Segmentation techniques based on Transformer architecture in the epitope prediction task. This is a cooperation between the UNB Vision group and the Aston University epitope prediction group
+This project aims to HMM and LM in the epitope prediction task. This is a cooperation between the UNB Vision group and the Aston University epitope prediction group
 
 This repository has the following experiments:
 
